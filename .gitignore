@@ -5,3 +5,4 @@ instace/
 *.pyc
 .DS_Store
 *.db
+.env
